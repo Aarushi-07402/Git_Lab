@@ -1,4 +1,2 @@
 This is my first Git lab
-
-13-11-2026
-hi
+Work in Progress
