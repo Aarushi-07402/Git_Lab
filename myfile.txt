@@ -1,2 +1,2 @@
 This is my first Git lab
-Work in Progress
+Work in progress
